@@ -1,6 +1,8 @@
 package Kosmo_lessons;
 
-public class App 
+import Kosmo_lessons.Hospital.HospitalDoctor;
+
+public class App
 {
     public static void main( String[] args )
     {
